@@ -1,0 +1,109 @@
+/*
+* @Author: asus
+* @Date:   2018-03-09 08:58:43
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-04-11 16:39:39
+*/
+a{
+	text-decoration: none;
+}
+.zhengmian{
+	width: 225px;
+	height: 486px;
+	margin: 0 auto;
+	border-radius: 27px;
+	background: linear-gradient(top,#eff0f2,#e7ebec);
+	border: 2px solid #cf8e92 ;
+	box-shadow: 0,0,30px,5px,pink,inset;
+	position: relative;
+}
+.head{
+	width: 225px;
+	height: 28px;
+	overflow: hidden;
+}
+.point{
+	width:100px; 
+	height: 11px;
+	margin-top: 9px;
+	margin-left: 52px;
+}
+.point1{
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	background:#121413;
+	float: left;
+}
+.point2{
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	background:#121413;
+	float: right;
+}
+.point3{
+	width: 40px;
+	height: 5px;
+	background:#121413;
+	margin-left: 15px;
+	margin-top: 3px;
+	border-radius: 4px;
+	float: left;
+}
+.pingmu{
+	width: 219px;
+	height: 430px;
+	background:#010d23;
+	border:1px solid black;
+	border-radius: 8px;
+	margin: 0 auto;
+	box-shadow: 0,0,30px,5px,#010d23,inset;
+
+}
+.pingmu img{
+	width: 219px;
+	height: 430px;
+	display: block;
+	border-radius: 8px;
+}
+.bottom{
+	width:225px; 
+	height: 26px;
+}
+.aside{
+	width: 2px;
+	height:60px;
+	background: #be9495;
+	position: absolute;
+	right: -4px;
+	top:55px;
+	border-radius: 20px;
+}
+.aside1{
+	width: 2px;
+	height:2px;
+	background: #f9fafc;
+	position: absolute;
+	margin-top: 29px;
+	border-radius: 20px;
+}
+.switch{
+	width: 2px;
+	height:30px;
+	background: #be9495;
+	position: absolute;
+	right: -4px;
+	top:123px;
+	border-radius: 10px;
+}
+.back{
+	display: block;
+	width: 200px;
+	height:30px;
+	margin-top: 10px;
+	margin:0 auto;
+	text-align: center;
+	font-size: 28px;
+	color: #979797;
+}

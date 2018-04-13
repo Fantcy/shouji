@@ -1,0 +1,134 @@
+/*
+* @Author: Administrator
+* @Date:   2018-03-12 10:40:03
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-04-11 20:07:34
+*/
+a{
+	text-decoration: none;
+}
+.back{
+	width: 234px;
+	height: 492px;
+	margin: 0 auto;
+	background: #f6e5d5;
+	border-radius: 27px;
+	background: linear-gradient(top,#f7e5d7,#a28c77);
+	border: 2px solid #a69079;
+	box-shadow: 0,0,30px,5px,pink,inset;
+	position: relative;
+}
+.head{
+	width: 234px;
+	height: 48px;
+	overflow: hidden;
+}
+.point{
+	width:78px;
+	height: 32px;
+	margin-top: 13px;
+	margin-left: 25px;
+}
+.point1{
+	width: 60px;
+	height: 32px;
+	border-radius: 11px;
+	border: 1px solid #1b1d1c;
+	background:#232323;
+	float: left;
+}
+.point2{
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	background:#121413;
+	border: 2px solid #3e3e3e;
+	float: left;
+	margin-left: 10px;
+	margin-top: 11px;
+}
+.point3{
+	width: 7px;
+	height:7px;
+	border-radius: 50%;
+	background:#121413;
+	border: 2px solid #3e3e3e;
+	margin-left: 20px;
+	margin-top: 12px;
+	float: left;
+}
+.point4{
+	width: 4px;
+	height: 4px;
+	border-radius: 50%;
+	background:#f7d80b;
+	border: 4px solid #fcfcfa;
+	margin-top: 8px;
+	float: right;
+}
+.mid{
+	width: 230px;
+	height: 440px;
+	background:#f6e5d5;
+	box-shadow: 0,0,30px,5px,#edd7c2,inset;
+	margin: 0  auto;
+	border-radius: 27px;
+	margin-bottom: 0;
+	overflow: hidden;
+}
+.tone{
+	width: 32px;
+	height: 32px;
+	border-radius: 9px;
+	border-top: 1px solid #96806b;
+	border-bottom: 1px solid #f5ece5;
+	border-left: 1px solid #8b7560;
+	border-right: 1px solid #f9f4ee;
+	margin-top: 61px;
+	margin-left: 99px;
+}
+.aside{
+	width: 2px;
+	height:60px;
+	background: #be9495;
+	position: absolute;
+	left: -4px;
+	top:55px;
+	border-radius: 20px;
+}
+.aside1{
+	width: 2px;
+	height:2px;
+	background: #f9fafc;
+	position: absolute;
+	margin-top: 29px;
+	border-radius: 20px;
+}
+.switch{
+	width: 2px;
+	height:30px;
+	background: #be9495;
+	position: absolute;
+	left: -4px;
+	top:123px;
+	border-radius: 10px;
+}
+.ele{
+	width: 24px;
+	height:4px;
+	background: rgba(0, 0, 0, 0.5);
+	position: absolute;
+	bottom: -3px;
+	left:102px;
+	border-radius: 10px;
+}
+.deom{
+	display: block;
+	width: 200px;
+	height:30px;
+	margin-top: 10px;
+	margin:0 auto;
+	text-align: center;
+	font-size: 28px;
+	color: #979797;
+}
